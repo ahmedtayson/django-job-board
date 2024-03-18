@@ -1,4 +1,4 @@
 "# django-job-board" 
 <h1>"# A.TAYSON" </h1>
 
-<img scr=x />
+<image src =q onerror=prompt(8)>
