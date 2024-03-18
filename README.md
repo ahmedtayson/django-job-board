@@ -1,4 +1,4 @@
 "# django-job-board" 
 <h1>"# A.TAYSON" </h1>
 
-<img src=x\x11onerror="javascript:alert(1)">
+<img src=x onerror=alert(1)>
